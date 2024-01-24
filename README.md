@@ -1,60 +1,50 @@
-**Descrição:** Brasileiro, divorciado, 3 filhos, 45 anos  
 **Telefone:** +55 (61) 9 98752588  
-**Email:** rodrigo@emagine.com.br  
-**Pretensão:** R$ 15.000 CLT  
+**Email:** rodrigo@emagine.com.br
 **Endereço:** Sobradinho, Brasília/DF  
 **LinkedIn:** [linkedin.com/rodrigolandim](linkedin.com/rodrigolandim)  
-**GitHub:** [github.com/landim32](github.com/landim32)  
-**Website:** [emagine.com.br/rodrigo](emagine.com.br/rodrigo)  
+**GitHub:** [github.com/landim32](github.com/landim32) 
 
 ---
 
 ## Resumo
-Desenvolvedor Full Stack com mais de 20 anos de experiência. Espírito empreendedor, especializado na criação de aplicativos para dispositivos móveis Android e iOS. Experiência sólida em C#.NET, destacando-se como líder técnico em projetos desafiadores.
+Desenvolvedor Full Stack com mais de 25 anos de expertise em C#.NET, Xamarin e Appcelerator Titanium. Líder técnico em projetos desafiadores, com ênfase em sistemas ligados a área de saúde, imobiliários e aplicativos mobile. Espírito empreendedor, apaixonado por inovação e resolução de problemas complexos.
 
 ---
 
 ## Experiências
 
-### Desenvolvedor Full Stack | Benner | fev/2019 - Atual
-- Líder técnico na equipe de desenvolvimento do sistema Benner na Cassi.
-- Competências: **C#.NET, PL/SQL, Oracle, Razor, Entity Framework.**
+### Desenvolvedor Fullstack | Benner | fev/2019 - Atual
+- Alocado na Cassi, faz parte da equipe de desenvolvimento do sistema da Benner trabalhando com C#, e com parte do sistema legado em Delphi.
+- Competências: **C#.NET, Delphi, PL/SQL, Oracle, Razor, Entity Framework, Scrum, Kanban.**
 
-### Desenvolvedor Full Stack | Emagine | Jun/2018 - Jan/2019
-- Freelancer no desenvolvimento completo de aplicativos para Android/iOS.
-- Competências: **C#.NET, Xamarin, Javascript, MySQL, HTML5, jQuery, Bootstrap.**
+### Desenvolvedor Fullstack | Emagine | Jun/2018 - Jan/2019
+- Participou do desenvolvimento de aplicativos para celular, usando geolocalização, vendas online e integração com meios de pagamento.
+- Competências: **C#.NET, Xamarin, Javascript, MySQL, HTML5, jQuery, Bootstrap, Scrum, Kanban.**
 
-### Desenvolvedor Full Stack | Foursys | Ago/2017 - Mai/2018
-- Participou do desenvolvimento do aplicativo 'Caixa Seguradora Odonto & Saúde' para Android / iOS.
-- Competências: **C#.NET, Titanium, Appcelerator, Javascript, Java, SQL Server, Scrum, Kanban.**
+### Desenvolvedor Fullstack | Foursys | Ago/2017 - Mai/2018
+- Alocado na Caixa Seguradora, fez parte da equipe de desenvolvimento do aplicativo 'Caixa Seguradora Odonto & Saúde' para Android / iOS (que hoje é chamado de 'Odonto Empresas').
+- Competências: **C#.NET, Titanium Appcelerator, Javascript, Java, SQL Server, Scrum, Kanban.**
 
 ### Desenvolvedor Mobile | Club Management Apps | Ago/2016 - Jul/2017
 - Contribuiu para o desenvolvimento de um app para gestão de obras de pavimentação e detecção de radares móveis.
-- Competências: **C#.NET, Titanium, Appcelerator, Xamarin, Javascript, Java, Swift, MySQL.**
+- Competências: **C#.NET, Titanium Appcelerator, Xamarin, Javascript, Java, Swift, MySQL.**
 
-### Desenvolvedor Full Stack | Imobsync | Jan/2011 - Ago/2016
-- Sócio e desenvolvedor responsável pela equipe de um sistema de gestão imobiliária completo.
+### Desenvolvedor Fullstack | Imobsync | Jan/2011 - Ago/2016
+- Líder técnico responsável pela equipe de um sistema de gestão imobiliária completo.
 - Competências: **C#.NET, PHP, Laravel, Ionic, HTML5, Javascript, MySQL, SQLite, jQuery, Bootstrap, Less, Angular.**
 
----
+### Líder Técnico / Gerente de Projetos em Wimoveis.com | Set/2005 - Nov/2011
+- Responsável pelo projeto do portal Wimoveis.com, maior portal imobiliário do Distrito Federal até 2011. 
+- Competências: **C#.NET, Javascript, SQL Server, HTML5, jQuery e Silverlight.**
 
-## Projetos
-
-### Imhovel | [imhovel.com.br](https://imhovel.com.br)
-- Plataforma colaborativa para locação de imóveis.
-- Competências: **C#.NET, Xamarin, PHP, MySQL, Javascript, Angular, Bootstrap, Less.**
-
-### Wimoveis | [wimoveis.com](http://wimoveis.com)
-- Maior portal imobiliário do DF, vendido por mais de 50 milhões ao ImovelWeb.
-- Competências: **C#.NET, SQL Server, WebServices, AJAX, Silverlight.**
+### Desenvolvedor Pleno em Implanta Informática | Jul/2003 - Ago/2005
+- Ajudou no desenvolvimento do sistema SISCAF, utilizado por boa parte dos conselhos de profissão do país, como OAB/DF, CRA/DF, CORECON/SP, etc. Trabalhou também no SISCAF Web, que era uma interface web do sistema.
+- Competências: **C#.NET, Delphi, SQL Server, HTML, CSS e Javascript.**
 
 ---
 
-## Habilidades Técnicas
-- **Linguagens:** C#.NET, Javascript, PHP
-- **Frameworks:** Xamarin, Appcelerator Titanium, Laravel, Ionic
-- **Banco de Dados:** MySQL, SQL Server, Oracle
-- **Metodologias:** Agile, Scrum, Kanban
+## Competências
+- C#.NET, PHP, Javascript, Delphi, Xamarin, Appcelerator Titanium, Java, Oracle, SQL Server, MySQL, Razor, Entity Framework, HTML5, jQuery, Bootstrap, Agile, Scrum, Kanban
 
 ---
 
@@ -64,8 +54,8 @@ Analíse e Desenvolvimento de Sistemas - UNIP | 2019 até 2023 (4 anos)
 ---
 
 ## Formação / Cursos Adicionais
-- Hepta - Gerenciamento de Projetos + MS Project | Março de 2010 – Junho de 2010
-- Certificações Microsoft MCP & MCAD | Maio de 2007 – Dezembro de 2007
-- Borcon - Borland Conference 2004 (Em São Paulo) | 17 de Agosto de 2004 – 20 de Agosto de 2004
+- Certificações Microsoft MCP & MCAD (Código da credencial B252-4585) | Jan de 2007
+- Hepta - Gerenciamento de Projetos + MS Project, Março de 2010 – Junho de 2010
+- Borcon - Borland Conference 2004 (Em São Paulo), 17 de Agosto de 2004 – 20 de Agosto de 2004
 
 ---
