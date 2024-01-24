@@ -54,8 +54,6 @@ Analíse e Desenvolvimento de Sistemas - UNIP | 2019 até 2023 (4 anos)
 ---
 
 ## Formação / Cursos Adicionais
-- Certificações Microsoft MCP & MCAD (Código da credencial B252-4585) | Jan de 2007
+- Certificações Microsoft MCP & MCAD (Código da credencial B252-4585), Jan de 2007
 - Hepta - Gerenciamento de Projetos + MS Project, Março de 2010 – Junho de 2010
 - Borcon - Borland Conference 2004 (Em São Paulo), 17 de Agosto de 2004 – 20 de Agosto de 2004
-
----
