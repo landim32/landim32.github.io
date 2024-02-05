@@ -1,6 +1,6 @@
 **Telefone:** +55 (61) 9 98752588  
-**Email:** rodrigo@emagine.com.br
-**Endereço:** Sobradinho, Brasília/DF  
+**Endereço:** Sobradinho, Brasília/DF
+**Email:** [mailto:rodrigo@emagine.com.br](rodrigo@emagine.com.br)  
 **LinkedIn:** [linkedin.com/rodrigolandim](linkedin.com/rodrigolandim)  
 **GitHub:** [github.com/landim32](github.com/landim32) 
 
