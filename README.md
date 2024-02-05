@@ -13,23 +13,23 @@ Desenvolvedor Full Stack com mais de 25 anos de expertise em C#.NET, Xamarin e A
 
 ## Experiências
 
-### Desenvolvedor Fullstack | Benner | fev/2019 - Atual
+### Desenvolvedor Fullstack em Benner | fev/2019 - Atual
 - Alocado na Cassi, faz parte da equipe de desenvolvimento do sistema da Benner trabalhando com C#, e com parte do sistema legado em Delphi.
 - Competências: **C#.NET, Delphi, PL/SQL, Oracle, Razor, Entity Framework, Scrum, Kanban.**
 
-### Desenvolvedor Fullstack | Emagine | Jun/2018 - Jan/2019
+### Desenvolvedor Fullstack em Emagine | Jun/2018 - Jan/2019
 - Participou do desenvolvimento de aplicativos para celular, usando geolocalização, vendas online e integração com meios de pagamento.
 - Competências: **C#.NET, Xamarin, Javascript, MySQL, HTML5, jQuery, Bootstrap, Scrum, Kanban.**
 
-### Desenvolvedor Fullstack | Foursys | Ago/2017 - Mai/2018
+### Desenvolvedor Fullstack em Foursys | Ago/2017 - Mai/2018
 - Alocado na Caixa Seguradora, fez parte da equipe de desenvolvimento do aplicativo 'Caixa Seguradora Odonto & Saúde' para Android / iOS (que hoje é chamado de 'Odonto Empresas').
 - Competências: **C#.NET, Titanium Appcelerator, Javascript, Java, SQL Server, Scrum, Kanban.**
 
-### Desenvolvedor Mobile | Club Management Apps | Ago/2016 - Jul/2017
+### Desenvolvedor Mobile em Club Management Apps | Ago/2016 - Jul/2017
 - Contribuiu para o desenvolvimento de um app para gestão de obras de pavimentação e detecção de radares móveis.
 - Competências: **C#.NET, Titanium Appcelerator, Xamarin, Javascript, Java, Swift, MySQL.**
 
-### Desenvolvedor Fullstack | Imobsync | Jan/2011 - Ago/2016
+### Desenvolvedor Fullstack em Imobsync | Jan/2011 - Ago/2016
 - Líder técnico responsável pela equipe de um sistema de gestão imobiliária completo.
 - Competências: **C#.NET, PHP, Laravel, Ionic, HTML5, Javascript, MySQL, SQLite, jQuery, Bootstrap, Less, Angular.**
 
