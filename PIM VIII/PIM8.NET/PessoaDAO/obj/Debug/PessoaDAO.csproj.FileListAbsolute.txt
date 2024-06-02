@@ -1,0 +1,10 @@
+C:\Projetos\PIM8\PessoaDAO\bin\Debug\PessoaDAO.exe.config
+C:\Projetos\PIM8\PessoaDAO\bin\Debug\PessoaDAO.exe
+C:\Projetos\PIM8\PessoaDAO\bin\Debug\PessoaDAO.pdb
+C:\Projetos\PIM8\PessoaDAO\obj\Debug\PessoaDAO.csproj.AssemblyReference.cache
+C:\Projetos\PIM8\PessoaDAO\obj\Debug\PessoaDAO.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\PIM8\PessoaDAO\obj\Debug\PessoaDAO.csproj.CoreCompileInputs.cache
+C:\Projetos\PIM8\PessoaDAO\obj\Debug\PessoaDAO.exe
+C:\Projetos\PIM8\PessoaDAO\obj\Debug\PessoaDAO.pdb
+C:\Projetos\PIM8\PessoaDAO\bin\Debug\PessoaDAO.mdf
+C:\Projetos\PIM8\PessoaDAO\bin\Debug\PessoaDAO_log.ldf
