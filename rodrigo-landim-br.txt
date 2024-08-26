@@ -1,58 +1,71 @@
-#RODRIGO LANDIM CARNEIRO
-##FULLSTACK DEVELOPER | C#.NET | ORACLE
+# RODRIGO LANDIM CARNEIRO
+## FULLSTACK DEVELOPER | C#.NET | ORACLE
 
 Endereço:	Sobradinho, Brasília/DF 
 Telefone:	+55 (61) 9 98752588		
-Email: 		rodrigo@emagine.com.br  
-LinkedIn: 	linkedin.com/rodrigolandim	
+LinkedIn: 	linkedin.com/rodrigolandim
+Email: 		rodrigo@emagine.com.br  	
 GitHub: 	github.com/landim32
 
-##RESUMO
+
+RESUMO
 
 Desenvolvedor Full Stack com vasta expertise em C#.NET, Xamarin e Appcelerator Titanium, Oracle, etc. Líder técnico em projetos desafiadores, com ênfase em sistemas ligados a área de saúde, imobiliários e aplicativos mobile. Espírito empreendedor, apaixonado por inovação e resolução de problemas complexos.
 
-##EXPERIÊNCIAS
 
-* Desenvolvedor Fullstack em Benner, fev/2019 – Atual  (mais de 5 anos)
-	- Alocado na Caixa Saúde, anteriormente na Cassi, faz parte da equipe de desenvolvimento do sistema da Benner pra gestão de planos de saúde trabalhando com C#, e com parte do sistema legado em Delphi.
-	- Competências: C#.NET, Delphi, PL/SQL, Oracle, Razor, Entity Framework, Scrum, Kanban.
-* Desenvolvedor Fullstack em Emagine, Jun/2018 – Jan/2019 (8 meses)
-	- Participou do desenvolvimento de aplicativos para celular, usando geolocalização, vendas online e integração com meios de pagamento.
-	- Competências: C#.NET, Xamarin, Javascript, MySQL, HTML5, jQuery, Bootstrap, Scrum, Kanban.
-* Desenvolvedor Fullstack em Foursys, Ago/2017 – Mai/2018 (10 meses)
-	- Alocado na Caixa Seguradora, fez parte da equipe de desenvolvimento do aplicativo 'Caixa Seguradora Odonto & Saúde' para Android / iOS (que hoje é chamado de 'Odonto Empresas').
-	- Competências: C#.NET, Titanium Appcelerator, Javascript, Java, SQL Server, Scrum, Kanban.
-* Desenvolvedor Mobile em Club Management Apps, Ago/2016 – Jul/2017 (11 meses)
-	- Contribuiu para o desenvolvimento de um app para gestão de obras de pavimentação e detecção de radares móveis.
-	- Competências: C#.NET, Titanium Appcelerator, Xamarin, Javascript, Java, Swift, MySQL.
-* Desenvolvedor Fullstack em Imobsync, Jan/2011 – Ago/2016 (5 anos e 7 meses)
-	- Líder técnico responsável pela equipe de um sistema de gestão imobiliária completo.
-	- Competências: C#.NET, PHP, Laravel, Ionic, HTML5, Javascript, MySQL, SQLite, jQuery, Bootstrap, Less, Angular.
-* Líder Técnico / Gerente de Projetos em Wimoveis.com, Set/2005 – Nov/2011 (6 anos e 2 meses)
-	- Responsável pelo projeto do portal Wimoveis.com, maior portal imobiliário do Distrito Federal até 2011. 
-	- Competências: C#.NET, Javascript, SQL Server, HTML5, jQuery e Silverlight.
-* Desenvolvedor Pleno em Implanta Informática, Jul/2003 – Ago/2005 (1 ano e 2 meses)
-	- Ajudou no desenvolvimento do sistema SISCAF, utilizado por boa parte dos conselhos de profissão do país, como OAB/DF, CRA/DF, CORECON/SP, etc. Trabalhou também no SISCAF Web, que era uma interface web do sistema.
-	- Competências: C#.NET, Delphi, SQL Server, HTML, CSS e Javascript.
-* Experiências antes de Ago/2005
-	- Network Manager em ZarpNet Internet por 2 anos e 2 meses até 2003; Desenvolvedor PHP em Yawl Internet por 1 ano e 1 mês até 2001; Desenvolvedor PHP em Rudah Internet por 7 meses até 2000; Programador / Suporte Técnico em Netium Internet por 7 meses até 1999.
+EXPERIÊNCIAS
 
-##COMPETÊNCIAS
+Desenvolvedor Fullstack em Benner, fev/2019 – Atual  (mais de 5 anos)
+Alocado na Caixa Saúde, anteriormente na Cassi, faz parte da equipe de desenvolvimento do sistema da Benner pra gestão de planos de saúde trabalhando com C#, e com parte do sistema legado em Delphi.
+Competências: C#.NET, Delphi, PL/SQL, Oracle, Razor, Entity Framework, Scrum, Kanban.
 
-* C#.NET, Javascript, Delphi, Xamarin, Appcelerator Titanium, Java, PHP, Oracle, SQL Server, MySQL, Razor, Entity Framework, HTML5, jQuery, Bootstrap, Agile, Scrum, Kanban
+Desenvolvedor Fullstack em Emagine, Jun/2018 – Jan/2019 (8 meses)
+Participou do desenvolvimento de aplicativos para celular, usando geolocalização, vendas online e integração com meios de pagamento.
+Competências: C#.NET, Xamarin, Javascript, MySQL, HTML5, jQuery, Bootstrap, Scrum, Kanban.
 
-##IDIOMAS
+Desenvolvedor Fullstack em Foursys, Ago/2017 – Mai/2018 (10 meses)
+Alocado na Caixa Seguradora, fez parte da equipe de desenvolvimento do aplicativo 'Caixa Seguradora Odonto & Saúde' para Android / iOS (que hoje é chamado de 'Odonto Empresas').
+Competências: C#.NET, Titanium Appcelerator, Javascript, Java, SQL Server, Scrum, Kanban.
 
-* Português (Nativo) e Inglês (Intermediário)
+Desenvolvedor Mobile em Club Management Apps, Ago/2016 – Jul/2017 (11 meses)
+Contribuiu para o desenvolvimento de um app para gestão de obras de pavimentação e detecção de radares móveis.
+Competências: C#.NET, Titanium Appcelerator, Xamarin, Javascript, Java, Swift, MySQL.
 
-##FORMAÇÃO ACADÊMICA
+Desenvolvedor Fullstack em Imobsync, Jan/2011 – Ago/2016 (5 anos e 7 meses)
+Líder técnico responsável pela equipe de um sistema de gestão imobiliária completo.
+Competências: C#.NET, PHP, Laravel, Ionic, HTML5, Javascript, MySQL, SQLite, jQuery, Bootstrap, Less, Angular.
 
-* Análise e Desenvolvimento de Sistemas – UNIP, 2019 até 2021 (2 anos)
+Líder Técnico / Gerente de Projetos em Wimoveis.com, Set/2005 – Nov/2011 (6 anos e 2 meses)
+Responsável pelo projeto do portal Wimoveis.com, maior portal imobiliário do Distrito Federal até 2011. 
+Competências: C#.NET, Javascript, SQL Server, HTML5, jQuery e Silverlight.
 
-##FORMAÇÃO / CURSOS ADICIONAIS
+Desenvolvedor Pleno em Implanta Informática, Jul/2003 – Ago/2005 (1 ano e 2 meses)
+Ajudou no desenvolvimento do sistema SISCAF, utilizado por boa parte dos conselhos de profissão do país, como OAB/DF, CRA/DF, CORECON/SP, etc. Trabalhou também no SISCAF Web, que era uma interface web do sistema.
+Competências: C#.NET, Delphi, SQL Server, HTML, CSS e Javascript.
 
-* Certificações Microsoft MCP & MCAD (Código da credencial B252-4585), Janeiro de 2007
-* Métodos Ágeis, Alura (35 horas): Introdução, Scrum: Agilidade em seu projeto, Lean Startup: Primeiros passos da sua startup enxuta, Agile na prática: técnicas aplicadas para gestão ágil;
-* Programação JAVA, Alura de 15/01/2019 a 09/02/2019 (80 horas): Java JRE e JDK: compile e execute o seu programa; Java OO - entendendo a Orientação a Objetos; Java Polimorfismo - entenda herança e interfaces; Java Exceções - aprenda a criar, lançar e controlar exceções; Java e java.lang - programe com a classe Object e String; Java e java.util - Coleções, Wrappers e Lambda expressions; Java e java.io - Streams, Reader e Writers;
-* Hepta - Gerenciamento de Projetos + MS Project, Março 2010 – Junho 2010, (56 horas);
-* Borcon - Borland Conference 2004 (Em São Paulo), Agosto de 2004.
+Experiências antes de Ago/2005
+Network Manager em ZarpNet Internet por 2 anos e 2 meses até 2003; Desenvolvedor PHP em Yawl Internet por 1 ano e 1 mês até 2001; Desenvolvedor PHP em Rudah Internet por 7 meses até 2000; Programador / Suporte Técnico em Netium Internet por 7 meses até 1999.
+
+
+COMPETÊNCIAS
+
+C#.NET, Javascript, Delphi, Xamarin, Appcelerator Titanium, Java, PHP, Oracle, SQL Server, MySQL, Razor, Entity Framework, HTML5, jQuery, Bootstrap, Agile, Scrum, Kanban
+
+
+IDIOMAS
+
+Português (Nativo) e Inglês (Intermediário)
+
+
+FORMAÇÃO ACADÊMICA
+
+Análise e Desenvolvimento de Sistemas – UNIP, 2019 até 2021 (2 anos)
+
+
+FORMAÇÃO / CURSOS ADICIONAIS
+
+    • Certificações Microsoft MCP & MCAD (Código da credencial B252-4585), Janeiro de 2007
+    • Métodos Ágeis, Alura (35 horas): Introdução, Scrum: Agilidade em seu projeto, Lean Startup: Primeiros passos da sua startup enxuta, Agile na prática: técnicas aplicadas para gestão ágil;
+    • Programação JAVA, Alura de 15/01/2019 a 09/02/2019 (80 horas): Java JRE e JDK: compile e execute o seu programa; Java OO - entendendo a Orientação a Objetos; Java Polimorfismo - entenda herança e interfaces; Java Exceções - aprenda a criar, lançar e controlar exceções; Java e java.lang - programe com a classe Object e String; Java e java.util - Coleções, Wrappers e Lambda expressions; Java e java.io - Streams, Reader e Writers;
+    • Hepta - Gerenciamento de Projetos + MS Project, Março 2010 – Junho 2010, (56 horas);
+    • Borcon - Borland Conference 2004 (Em São Paulo), Agosto de 2004.
