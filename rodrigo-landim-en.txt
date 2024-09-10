@@ -1,0 +1,66 @@
+RODRIGO LANDIM CARNEIRO
+SENIOR DEVELOPER | C#.NET | ORACLE
+
+Address: Sobradinho, Brasília/DF
+
+Phone: +55 (61) 9 98752588
+LinkedIn: linkedin.com/in/rodrigolandim
+Email: rodrigo@emagine.com.br
+
+GitHub: github.com/landim32
+
+SUMMARY
+
+Senior Developer with expertise in C#.NET and extensive experience in creating robust solutions in various sectors. Proven track record in systems development, maintenance and innovation, with a focus on healthcare, real estate and mobile applications. Solid knowledge of technologies such as Xamarin, React Native, Oracle and SQL Server, with an emphasis on delivering scalable and easy-to-maintain solutions.
+
+EXPERIENCES
+
+Senior Developer at Benner, Feb/2019 – Current (over 5 years)
+Working at Caixa Saúde, previously at Cassi, I work as a Senior Developer on Benner's health plan management system, using C#, PL/SQL, VB Script and Delphi. I have worked with both new implementations and support.
+Skills: C#.NET, .NET Core, VB Script, Delphi, PL/SQL, Oracle, Entity Framework, Design Patterns, Unit Testing, NUnit, Agile Methodologies, DevOps, GitHub.
+
+Senior Developer at Foursys, Aug/2017 – Jan/2019 (1 year and 6 months)
+Allocated at Caixa Seguradora, he was part of the development team for the 'Caixa Seguradora Odonto & Saúde' application for Android / iOS (which is now called 'Odonto Empresas'), using Titanium Appcelerator, C#, MS SQL Server, etc. He made additional implementations in other Foursys projects, using other technologies such as C#, Xamarin, React, Flutter, Java, Oracle, etc.
+Skills: C#.NET, .NET Core, Xamarin, Titanium Appcelerator, React, Flutter, Javascript, Java, SQL Server, MongoDB, MySQL, SQLite, Unit Testing, NUnit, JUnit, Agile Methodologies, GitHub.
+
+Senior Developer at Club Management Apps, Aug/2016 – Jul/2017 (11 months)
+Participated in an innovative project to develop an application for managing paving works and another for detecting mobile radars, using React Native, Titanium Appcelerator, Xamarin, C#, and MS SQL Server. Responsible for integrating platforms, ensuring scalability, and implementing innovative solutions, both in functionality and usability.
+Skills: C#.NET, React Native, Titanium Appcelerator, Xamarin, Javascript, MySQL, MS SQL Server, SQLite, Unit Testing, NUnit, Agile Methodologies, GitHub.
+
+Senior Developer at Imobsync, Jan/2011 – Aug/2016 (5 years and 7 months)
+Leading the development team of a complete real estate management system, I was responsible for creating innovative solutions, including integration with real estate portals and social networks. I used technologies such as PHP, Laravel, Ionic, C#.NET, and Angular to create a robust and scalable system, which offered everything from website creation to a customized real estate CRM.
+Skills: C#.NET, PHP, Laravel, Ionic, Wordpress, HTML5, Javascript, MySQL, PostGreSQL, SQLite, jQuery, Bootstrap, Less, Angular, GitHub, Git, Subversion.
+
+Senior Developer at Wimoveis.com, September 2005 – November 2011 (6 years and 2 months)
+I was responsible for leading the development of the largest real estate portal in the Federal District, Wimoveis.com, which held 90% of the market until its sale to ImovelWeb. I worked with technologies such as C#.NET, SQL Server, AJAX, and Silverlight, leading the project from its conception to its consolidation in the market.
+Skills: C#.NET, Javascript, SQL Server, HTML5, jQuery, Silverlight, and Subversion.
+
+Full-time Developer at Implanta Informática, Jul/2003 – Aug/2005 (1 year and 2 months)
+Helped in the development of the SISCAF system, used by many of the country's professional councils, such as OAB/DF, CRA/DF, CORECON/SP, etc. He also worked on SISCAF Web, which was a web interface for the system.
+Skills: C#.NET, ASP.NET, Delphi, SQL Server, HTML, CSS and Javascript.
+
+Experience before Aug/2005
+Junior Developer at ZarpNet Internet for 2 years and 2 months until 2003; Junior Developer at Yawl Internet for 1 year and 1 month until 2001; Junior Developer at Rudah Internet for 7 months until 2000; Programmer / Technical Support at Netium Internet for 7 months until 1999.
+
+SKILLS
+
+C#.NET, .NET Core, ASP.NET, Javascript, React, React Native, Flutter, Delphi, Xamarin, Appcelerator Titanium, Java, PHP, VB Script, PL/SQL, Oracle, SQL Server, MongoDB, SQLite, MySQL, PostGreSQL, Laravel, Razor, Entity Framework, Design Patterns, HTML5, Less, jQuery, Angular, Bootstrap, Unit Tests, NUnit, JUnit, DevOps, GitHub, Git, Subversion, Agile Methodologies, Scrum, Kanban
+
+LANGUAGES
+
+Portuguese (Native) and English (Intermediate)
+
+ACADEMIC BACKGROUND
+
+Systems Analysis and Development – UNIP, 2019 to 2021 (2 years)
+
+EDUCATION / ADDITIONAL COURSES
+
+• Microsoft MCP & MCAD Certifications (Credential Code B252-4585), January 2007
+• Agile Methods, Alura (35 hours): Introduction, Scrum: Agility in your project, Lean Startup: First steps for your lean startup, Agile in practice: techniques applied to agile management;
+• .NET Training, Alura (118 hours): First steps; Understanding Object Orientation; Understanding inheritance and interface; Understanding exceptions; DLL libraries, documentation and using NuGet; Strings, regular expressions and the Object class; Array and generic types; List, lambda, linq; Input and output (I/O) with streams; Entity Framework Core, efficient database; Asp.NET Core, a webapp using the MVC pattern; ASP.NET Core, an e-Commerce with MVC and EF Core; and ASP.NET Core part 2, an e-Commerce with MVC and EF Core;
+• Oracle SQL and PL/SQL training, Alura (40h): Oracle I - Learn SQL using this famous database; Oracle II - Complex Queries; PL/SQL - Master the Oracle database language; and PL/SQL - Mastering packages.
+• JAVA programming, Alura (80 hours): Java JRE and JDK: compile and run your program; Java OO - understanding Object Orientation; Java Polymorphism - understand inheritance and interfaces; Java Exceptions - learn how to create, throw and control exceptions; Java and java.lang - program with the Object and String classes; Java and java.util - Collections, Wrappers and Lambda expressions; Java and java.io - Streams, Reader and Writers;
+• Agilist, Alura (35 hours): Lean Startup - first steps of your lean Startup; Agile Methods - Introduction; Scrum - agility in your project; Agile in practice - techniques applied to Agile Management;
+• Project Management + MS Project, Hepta (56 hours);
+• Borcon - Borland Conference 2004 (In São Paulo), August 2004.

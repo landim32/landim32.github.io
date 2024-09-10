@@ -1,71 +1,66 @@
-# RODRIGO LANDIM CARNEIRO
-## FULLSTACK DEVELOPER | C#.NET | ORACLE
+RODRIGO LANDIM CARNEIRO
+DESENVOLVEDOR SÊNIOR | C#.NET | ORACLE
 
 Endereço:	Sobradinho, Brasília/DF 
 Telefone:	+55 (61) 9 98752588		
-LinkedIn: 	linkedin.com/rodrigolandim
+LinkedIn: 	linkedin.com/in/rodrigolandim
 Email: 		rodrigo@emagine.com.br  	
 GitHub: 	github.com/landim32
 
 
 RESUMO
 
-Desenvolvedor Full Stack com vasta expertise em C#.NET, Xamarin e Appcelerator Titanium, Oracle, etc. Líder técnico em projetos desafiadores, com ênfase em sistemas ligados a área de saúde, imobiliários e aplicativos mobile. Espírito empreendedor, apaixonado por inovação e resolução de problemas complexos.
+Desenvolvedor Sênior com expertise em C#.NET e ampla experiência na criação de soluções robustas em diversos setores. Histórico comprovado no desenvolvimento, manutenção e inovação de sistemas, com foco nas áreas de saúde, imobiliária e aplicativos móveis. Sólido conhecimento em tecnologias como Xamarin, React Native, Oracle e SQL Server, com ênfase em entregar soluções escaláveis e de fácil manutenção.
 
 
 EXPERIÊNCIAS
 
-Desenvolvedor Fullstack em Benner, fev/2019 – Atual  (mais de 5 anos)
-Alocado na Caixa Saúde, anteriormente na Cassi, faz parte da equipe de desenvolvimento do sistema da Benner pra gestão de planos de saúde trabalhando com C#, e com parte do sistema legado em Delphi.
-Competências: C#.NET, Delphi, PL/SQL, Oracle, Razor, Entity Framework, Scrum, Kanban.
+Desenvolvedor Sênior em Benner, fev/2019 – Atual  (mais de 5 anos)
+Alocado na Caixa Saúde, anteriormente na Cassi, atuo como Desenvolvedor Sênior no sistema de gestão de planos de saúde da Benner, utilizando C#, PL/SQL, VB Script e Delphi. Trabalhou tando com novas implementações como na sustentação. 
+Competências: C#.NET, .NET Core, VB Script, Delphi, PL/SQL, Oracle, Entity Framework, Design Patteners, Teste Unitários, NUnit, Metodologias Ágeis, DevOps, GitHub.
 
-Desenvolvedor Fullstack em Emagine, Jun/2018 – Jan/2019 (8 meses)
-Participou do desenvolvimento de aplicativos para celular, usando geolocalização, vendas online e integração com meios de pagamento.
-Competências: C#.NET, Xamarin, Javascript, MySQL, HTML5, jQuery, Bootstrap, Scrum, Kanban.
+Desenvolvedor Sênior em Foursys, Ago/2017 – Jan/2019 (1 ano e 6 meses)
+Alocado na Caixa Seguradora, fez parte da equipe de desenvolvimento do aplicativo 'Caixa Seguradora Odonto & Saúde' para Android / iOS (que hoje é chamado de 'Odonto Empresas'), utilizando Titanium Appcelerator, C#, MS SQL Server, etc. Fez implementações extras em outros projetos da Foursys, usando outras tecnologias como C#, Xamarin, React, Flutter, Java, Oracle, etc.
+Competências: C#.NET, .NET Core, Xamarin, Titanium Appcelerator, React, Flutter, Javascript, Java, SQL Server, MongoDB, MySQL, SQLite, Teste Unitários, NUnit, JUnit, Metodologias Ágeis, GitHub.
 
-Desenvolvedor Fullstack em Foursys, Ago/2017 – Mai/2018 (10 meses)
-Alocado na Caixa Seguradora, fez parte da equipe de desenvolvimento do aplicativo 'Caixa Seguradora Odonto & Saúde' para Android / iOS (que hoje é chamado de 'Odonto Empresas').
-Competências: C#.NET, Titanium Appcelerator, Javascript, Java, SQL Server, Scrum, Kanban.
+Desenvolvedor Sênior em Club Management Apps, Ago/2016 – Jul/2017 (11 meses)
+Participou de um projeto inovador para desenvolver um aplicativo de gestão de obras de pavimentação e outro para detecção de radares móveis, usando React Native, Titanium Appcelerator, Xamarin, C#, e MS SQL Server. Responsável por integrar plataformas, garantir a escalabilidade e implementar soluções inovadoras, tanto em funcionalidades quanto em usabilidade.
+Competências: C#.NET, React Native, Titanium Appcelerator, Xamarin, Javascript, MySQL, MS SQL Server, SQLite, Teste Unitários, NUnit, Metodologias Ágeis, GitHub.
 
-Desenvolvedor Mobile em Club Management Apps, Ago/2016 – Jul/2017 (11 meses)
-Contribuiu para o desenvolvimento de um app para gestão de obras de pavimentação e detecção de radares móveis.
-Competências: C#.NET, Titanium Appcelerator, Xamarin, Javascript, Java, Swift, MySQL.
+Desenvolvedor Sênior em Imobsync, Jan/2011 – Ago/2016 (5 anos e 7 meses)
+Liderando a equipe de desenvolvimento de um sistema completo de gestão imobiliária, fui responsável pela criação de soluções inovadoras, incluindo integração com portais imobiliários e redes sociais. Utilizei tecnologias como PHP, Laravel, Ionic, C#.NET, e Angular para criar um sistema robusto e escalável, que oferecia desde a criação de sites até um CRM imobiliário personalizado.
+Competências: C#.NET, PHP, Laravel, Ionic, Wordpress, HTML5, Javascript, MySQL, PostGreSQL, SQLite, jQuery, Bootstrap, Less, Angular, GitHub, Git, Subversion.
 
-Desenvolvedor Fullstack em Imobsync, Jan/2011 – Ago/2016 (5 anos e 7 meses)
-Líder técnico responsável pela equipe de um sistema de gestão imobiliária completo.
-Competências: C#.NET, PHP, Laravel, Ionic, HTML5, Javascript, MySQL, SQLite, jQuery, Bootstrap, Less, Angular.
-
-Líder Técnico / Gerente de Projetos em Wimoveis.com, Set/2005 – Nov/2011 (6 anos e 2 meses)
-Responsável pelo projeto do portal Wimoveis.com, maior portal imobiliário do Distrito Federal até 2011. 
-Competências: C#.NET, Javascript, SQL Server, HTML5, jQuery e Silverlight.
+Desenvolvedor Sênior em Wimoveis.com, Set/2005 – Nov/2011 (6 anos e 2 meses)
+Fui responsável por liderar o desenvolvimento do maior portal imobiliário do Distrito Federal, o Wimoveis.com, que detinha 90% do mercado até sua venda ao ImovelWeb. Trabalhei com tecnologias como C#.NET, SQL Server, AJAX, e Silverlight, conduzindo o projeto desde sua concepção até sua consolidação no mercado.
+Competências: C#.NET, Javascript, SQL Server, HTML5, jQuery, Silverlight e Subversion.
 
 Desenvolvedor Pleno em Implanta Informática, Jul/2003 – Ago/2005 (1 ano e 2 meses)
 Ajudou no desenvolvimento do sistema SISCAF, utilizado por boa parte dos conselhos de profissão do país, como OAB/DF, CRA/DF, CORECON/SP, etc. Trabalhou também no SISCAF Web, que era uma interface web do sistema.
-Competências: C#.NET, Delphi, SQL Server, HTML, CSS e Javascript.
+Competências: C#.NET, ASP.NET, Delphi, SQL Server, HTML, CSS e Javascript.
 
 Experiências antes de Ago/2005
-Network Manager em ZarpNet Internet por 2 anos e 2 meses até 2003; Desenvolvedor PHP em Yawl Internet por 1 ano e 1 mês até 2001; Desenvolvedor PHP em Rudah Internet por 7 meses até 2000; Programador / Suporte Técnico em Netium Internet por 7 meses até 1999.
-
+Desenvolvedor Júnior em ZarpNet Internet por 2 anos e 2 meses até 2003; Desenvolvedor Júnior em Yawl Internet por 1 ano e 1 mês até 2001; Desenvolvedor Júnior em Rudah Internet por 7 meses até 2000; Programador / Suporte Técnico em Netium Internet por 7 meses até 1999.
 
 COMPETÊNCIAS
 
-C#.NET, Javascript, Delphi, Xamarin, Appcelerator Titanium, Java, PHP, Oracle, SQL Server, MySQL, Razor, Entity Framework, HTML5, jQuery, Bootstrap, Agile, Scrum, Kanban
-
+C#.NET, .NET Core, ASP.NET, Javascript, React, React Native, Flutter, Delphi, Xamarin, Appcelerator Titanium, Java, PHP, VB Script, PL/SQL, Oracle, SQL Server, MongoDB, SQLite, MySQL, PostGreSQL, Laravel, Razor, Entity Framework, Design Patterns, HTML5, Less, jQuery, Angular, Bootstrap, Testes Unitários, NUnit, JUnit, DevOps, GitHub, Git, Subversion, Metodologias Ágeis, Scrum, Kanban
 
 IDIOMAS
 
 Português (Nativo) e Inglês (Intermediário)
 
-
 FORMAÇÃO ACADÊMICA
 
 Análise e Desenvolvimento de Sistemas – UNIP, 2019 até 2021 (2 anos)
-
 
 FORMAÇÃO / CURSOS ADICIONAIS
 
     • Certificações Microsoft MCP & MCAD (Código da credencial B252-4585), Janeiro de 2007
     • Métodos Ágeis, Alura (35 horas): Introdução, Scrum: Agilidade em seu projeto, Lean Startup: Primeiros passos da sua startup enxuta, Agile na prática: técnicas aplicadas para gestão ágil;
-    • Programação JAVA, Alura de 15/01/2019 a 09/02/2019 (80 horas): Java JRE e JDK: compile e execute o seu programa; Java OO - entendendo a Orientação a Objetos; Java Polimorfismo - entenda herança e interfaces; Java Exceções - aprenda a criar, lançar e controlar exceções; Java e java.lang - programe com a classe Object e String; Java e java.util - Coleções, Wrappers e Lambda expressions; Java e java.io - Streams, Reader e Writers;
-    • Hepta - Gerenciamento de Projetos + MS Project, Março 2010 – Junho 2010, (56 horas);
+    • Formação .NET, Alura (118 horas): Primeiros passos; Entendendo a Orientação a Objetos; Entendendo herança e interface; Entendendo exceções; Bibliotecas DLLs, documentação e usando o NuGet; Strings, expressões regulares e a classe Object; Array e tipos genéricos; List, lambda, linq; Entrada e saída (I/O) com streams; Entity Framework Core, banco de dados de forma eficiente; Asp.NET Core, uma webapp usando o padrão MVC; ASP.NET Core, um e-Commerce com MVC e EF Core; e ASP.NET Core parte 2, um e-Commerce com MVC e EF Core;
+    • Formação Oracle SQL e PL/SQL, Alura (40h): Oracle I - Aprenda SQL usando esse famoso banco de dados; Oracle II - Consultas Complexas; PL/SQL - Domine a linguagem do banco de dados Oracle; e PL/SQL - Dominando packages.
+    • Programação JAVA, Alura (80 horas): Java JRE e JDK: compile e execute o seu programa; Java OO - entendendo a Orientação a Objetos; Java Polimorfismo - entenda herança e interfaces; Java Exceções - aprenda a criar, lançar e controlar exceções; Java e java.lang - programe com a classe Object e String; Java e java.util - Coleções, Wrappers e Lambda expressions; Java e java.io - Streams, Reader e Writers;
+    • Agilista, Alura (35 horas): Lean Startup - primeiros passos da sua Startup enxuta; Métodos Ágeis - Introdução; Scrum - agilidade em seu projeto; Agile na prática - técnicas aplicadas para Gestão Ágil;
+    • Gerenciamento de Projetos + MS Project, Hepta (56 horas);
     • Borcon - Borland Conference 2004 (Em São Paulo), Agosto de 2004.
