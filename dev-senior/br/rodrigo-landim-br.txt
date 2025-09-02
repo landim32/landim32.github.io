@@ -1,0 +1,81 @@
+RODRIGO LANDIM CARNEIRO
+DESENVOLVEDOR SÊNIOR | C#.NET | React | ORACLE
+---
+
+Endereço:	Asa Norte, Brasília/DF 
+Telefone:	+55 (61) 9 98752588
+LinkedIn: 	linkedin.com/in/rodrigolandim
+Email: 		rodrigo@emagine.com.br  	
+GitHub: 	github.com/landim32
+
+RESUMO
+---
+
+Sou Desenvolvedor Sênior especializado em React, C#.NET e Oracle, com forte experiência em arquitetura de software e entrega de soluções robustas em setores como saúde, imobiliário e aplicativos móveis. Ao longo da minha carreira, atuei tanto em sustentação de sistemas críticos quanto em novas implementações escaláveis, sempre buscando qualidade, inovação e performance.
+
+Minhas principais práticas incluem Clean Code, SOLID, Domain-Driven Design (DDD), testes unitários e integrados, além de experiência em arquitetura hexagonal e microserviços. Também atuo com Integração e Entrega Contínua (CI/CD), pipelines automatizados, Docker para containerização e boas práticas de versionamento e DevOps. Tenho experiência em AWS, utilizando serviços de nuvem para construir soluções escaláveis, resilientes e seguras.
+
+Atualmente, atuo como Desenvolvedor Sênior na Benner, em projetos de grande relevância na área de saúde, garantindo a modernização e confiabilidade de sistemas críticos.
+
+Estou sempre em busca de novos desafios, aplicando tecnologias modernas, SaaS, cloud e boas práticas de arquitetura para construir aplicações escaláveis, resilientes e de alta performance.
+
+EXPERIÊNCIAS
+---
+
+Desenvolvedor Sênior em Benner, fev/2019 – Atual  (6+ anos)
+Atuação no sistema de gestão de planos de saúde da Benner, na Caixa Saúde e Cassi, com C#.NET, .NET Core, Oracle, VB Script e Delphi. Responsável por sustentação e novas implementações em sistemas críticos, aplicando Clean Code, SOLID, DDD e arquitetura hexagonal. Experiência em microserviços, CI/CD, DevOps, testes unitários e integrados, garantindo entregas ágeis, escaláveis e confiáveis.
+Competências: C#.NET, .NET Core, Oracle, PL/SQL, EF Core, Design Patterns, Clean Code, SOLID, DDD, Arquitetura Hexagonal, Microserviços, Testes Unitários (NUnit), CI/CD, DevOps, GitHub Actions, Docker, AWS, Scrum/Kanban.
+
+Desenvolvedor Sênior em Foursys, Ago/2017 – Jan/2019 (1 ano e 6 meses)
+Alocado na Caixa Seguradora, fez parte da equipe de desenvolvimento do aplicativo 'Caixa Seguradora Odonto & Saúde' para Android / iOS (que hoje é chamado de 'Odonto Empresas'), utilizando Titanium Appcelerator, C#, MS SQL Server, etc. Fez implementações extras em outros projetos da Foursys, usando outras tecnologias como C#, Xamarin, React, Flutter, Java, Oracle, etc.
+Competências: C#.NET, .NET Core, Xamarin, Titanium Appcelerator, React, Flutter, Javascript, Java, SQL Server, MongoDB, MySQL, SQLite, Teste Unitários, NUnit, JUnit, Metodologias Ágeis, GitHub.
+
+Desenvolvedor Sênior em Club Management Apps, Ago/2016 – Jul/2017 (11 meses)
+Participou de um projeto inovador para desenvolver um aplicativo de gestão de obras de pavimentação e outro para detecção de radares móveis, usando React Native, Titanium Appcelerator, Xamarin, C#, e MS SQL Server. Responsável por integrar plataformas, garantir a escalabilidade e implementar soluções inovadoras, tanto em funcionalidades quanto em usabilidade.
+Competências: C#.NET, React Native, Titanium Appcelerator, Xamarin, Javascript, MySQL, MS SQL Server, SQLite, Teste Unitários, NUnit, Metodologias Ágeis, GitHub.
+
+Desenvolvedor Sênior em Emagine, Jan/2011 – Ago/2016 (5 anos e 7 meses)
+Liderando a equipe de desenvolvimento de um sistema completo de gestão imobiliária, fui responsável pela criação de soluções inovadoras, incluindo integração com portais imobiliários e redes sociais. Utilizei tecnologias como PHP, Laravel, Ionic, C#.NET, e Angular para criar um sistema robusto e escalável, que oferecia desde a criação de sites até um CRM imobiliário personalizado.
+Competências: C#.NET, PHP, Laravel, Ionic, Wordpress, HTML5, Javascript, MySQL, PostGreSQL, SQLite, jQuery, Bootstrap, Less, Angular, GitHub, Git, Subversion.
+
+Desenvolvedor Sênior em Wimoveis.com, Set/2005 – Nov/2011 (6 anos e 2 meses)
+Fui responsável por liderar o desenvolvimento do maior portal imobiliário do Distrito Federal, o Wimoveis.com, que detinha 90% do mercado até sua venda ao ImovelWeb. Trabalhei com tecnologias como C#.NET, SQL Server, AJAX, e Silverlight, conduzindo o projeto desde sua concepção até sua consolidação no mercado.
+Competências: C#.NET, Javascript, SQL Server, HTML5, jQuery, Silverlight e Subversion.
+
+Desenvolvedor Pleno em Implanta Informática, Jul/2003 – Ago/2005 (1 ano e 2 meses)
+	
+Competências: C#.NET, ASP.NET, Delphi, SQL Server, HTML, CSS e Javascript.
+
+COMPETÊNCIAS
+---
+
+React, Next.js, C#.NET, .NET Core, ASP.NET, Javascript, Delphi, PHP, VB Script, PL/SQL, Oracle, SQL Server, SQLite, MySQL, PostGreSQL, Docker, AWS, Azure, Razor, Entity Framework, Design Patterns. DDD, CI/CD, SOLID, Clean Code, HTML5, Less, jQuery, Angular, Bootstrap, Testes Unitários, NUnit, JUnit, DevOps, GitHub Actions, GitHub, Git, Subversion, Metodologias Ágeis, Scrum, Kanban
+
+IDIOMAS
+---
+
+Português (Nativo) e Inglês (Intermediário)
+
+FORMAÇÃO ACADÊMICA
+---
+
+* Pós-graduação Lato Sensu - MBA, MBA em Data Center e Computação em Nuvem - Infraestrutura, Arquitetura e Armazenamento de Inf. – UNIP, 2026
+* Análise e Desenvolvimento de Sistemas – UNIP, 2021
+* Engenharia Civil – IESB, 2004
+
+FORMAÇÃO / CURSOS ADICIONAIS
+---
+
+* Introduction to Microsoft Azure Cloud Services, Coursera, Setembro de 2024 (9 horas);
+* Certificação Amazon AWS Certified Cloud Practitioner CLF-C02, Andre Lacono, Udemy, Dezembro de 2024 (22 horas);
+* Design Patterns em C#, Filipe NHimi, Udemy, Janeiro de 2025 (12,5 horas);
+* C# - Aplicando Princípios SOLID na prática, Jose Carlos Macoratti, Udemy, Janeiro de 2025 (9 horas);
+* Clean Architecture Essencial - ASP .NET Core com C#, Jose Carlos Macoratti, Udemy, Janeiro de 2025 (14 horas);
+* Métodos Ágeis, Alura: Introdução, Scrum: Agilidade em seu projeto, Lean Startup: Primeiros passos da sua startup enxuta, Agile na prática: técnicas aplicadas para gestão ágil (35 horas);
+* Formação .NET, Alura: Primeiros passos; Entendendo a Orientação a Objetos; Entendendo herança e interface; Entendendo exceções; Bibliotecas DLLs, documentação e usando o NuGet; Strings, expressões regulares e a classe Object; Array e tipos genéricos; List, lambda, linq; Entrada e saída (I/O) com streams; Entity Framework Core, banco de dados de forma eficiente; Asp.NET Core, uma webapp usando o padrão MVC; ASP.NET Core, um e-Commerce com MVC e EF Core; e ASP.NET Core parte 2, um e-Commerce com MVC e EF Core (118 horas);
+* Formação Oracle SQL e PL/SQL, Alura: Oracle I - Aprenda SQL usando esse famoso banco de dados; Oracle II - Consultas Complexas; PL/SQL - Domine a linguagem do banco de dados Oracle; e PL/SQL - Dominando packages (40 horas).
+* Programação JAVA, Alura: Java JRE e JDK: compile e execute o seu programa; Java OO - entendendo a Orientação a Objetos; Java Polimorfismo - entenda herança e interfaces; Java Exceções - aprenda a criar, lançar e controlar exceções; Java e java.lang - programe com a classe Object e String; Java e java.util - Coleções, Wrappers e Lambda expressions; Java e java.io - Streams, Reader e Writers (80 horas);
+* Agilista, Alura: Lean Startup - primeiros passos da sua Startup enxuta; Métodos Ágeis - Introdução; Scrum - agilidade em seu projeto; Agile na prática - técnicas aplicadas para Gestão Ágil (35 horas);
+* Certificações Microsoft MCP & MCAD (Código da credencial B252-4585), Janeiro de 2007
+* Gerenciamento de Projetos + MS Project, Hepta (56 horas);
+* Borcon - Borland Conference 2004 (Em São Paulo), Agosto de 2004.

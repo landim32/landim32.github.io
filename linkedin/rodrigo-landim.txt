@@ -7,21 +7,53 @@ LinkedIn: 	linkedin.com/in/rodrigolandim
 Email: 		rodrigo@emagine.com.br  	
 GitHub: 	github.com/landim32
 
+---
 
-RESUMO
+# SOBRE
 
-Desenvolvedor Sênior com expertise em C#.NET e ampla experiência na criação de soluções robustas em diversos setores. Histórico comprovado no desenvolvimento, manutenção e inovação de sistemas, com foco nas áreas de saúde, imobiliária e aplicativos móveis. Sólido conhecimento em tecnologias como Xamarin, React Native, Oracle e SQL Server, com ênfase em entregar soluções escaláveis e de fácil manutenção.
+## Português
 
+Sou Desenvolvedor Sênior especializado em React, C#.NET e Oracle, com forte experiência em arquitetura de software e entrega de soluções robustas em setores como saúde, imobiliário e aplicativos móveis. Ao longo da minha carreira, atuei tanto em sustentação de sistemas críticos quanto em novas implementações escaláveis, sempre buscando qualidade, inovação e performance.
 
-EXPERIÊNCIAS
+Minhas principais práticas incluem Clean Code, SOLID, Domain-Driven Design (DDD), testes unitários e integrados, além de experiência em arquitetura monolítica e microserviços, aplicando padrões como arquitetura hexagonal para maior flexibilidade e desacoplamento. Também atuo com Integração e Entrega Contínua (CI/CD), pipelines automatizados e boas práticas de versionamento e DevOps.
 
-Desenvolvedor Sênior em Benner, fev/2019 – Atual  (mais de 5 anos)
-Alocado na Caixa Saúde, anteriormente na Cassi, atuo como Desenvolvedor Sênior no sistema de gestão de planos de saúde da Benner, utilizando C#, PL/SQL, VB Script e Delphi. Trabalhou tando com novas implementações como na sustentação. 
-Competências: C#.NET, .NET Core, VB Script, Delphi, PL/SQL, Oracle, Entity Framework, Design Patteners, Teste Unitários, NUnit, Metodologias Ágeis, DevOps, GitHub.
+Entre minhas conquistas, destaco minha liderança no portal Wimoveis.com, maior portal imobiliário do Distrito Federal, no qual fui responsável por todo o desenvolvimento e evolução da plataforma, posteriormente vendida ao ImovelWeb por mais de 50 milhões de reais. Atualmente, atuo como Desenvolvedor Sênior na Benner, em projetos de grande relevância na área de saúde, garantindo a modernização e confiabilidade de sistemas críticos.
+
+Estou sempre em busca de novos desafios, aplicando tecnologias modernas, SaaS e boas práticas de arquitetura para construir aplicações escaláveis, resilientes e seguras.
+
+## Inglês
+
+I am a Senior Developer specialized in React, C#.NET and Oracle, with strong expertise in software architecture and delivering robust solutions across healthcare, real estate, and mobile applications. Throughout my career, I have worked on both critical system maintenance and new scalable implementations, always focusing on quality, innovation, and performance.
+
+My main practices include Clean Code, SOLID, Domain-Driven Design (DDD), unit and integration testing, as well as experience in both monolithic and microservices architectures, applying patterns like Hexagonal Architecture for flexibility and decoupling. I also have hands-on experience with Continuous Integration and Continuous Delivery (CI/CD) pipelines, DevOps practices, and version control best practices.
+
+Among my achievements, I highlight my leadership role at Wimoveis.com, the largest real estate portal in Brazil’s Federal District, where I was responsible for the full development and evolution of the platform, which was later acquired by ImovelWeb for over 50 million reais. Currently, I work as a Senior Developer at Benner, contributing to highly relevant healthcare projects, ensuring modernization and reliability of mission-critical systems.
+
+I am always looking for new challenges, applying modern technologies, SaaS, and architectural best practices to build scalable, resilient, and secure applications.
+
+---
+
+# EXPERIÊNCIAS
+
+## Português
+
+Desenvolvedor Sênior em Benner, fev/2019 – Atual (6+ anos)
+Atuação no sistema de gestão de planos de saúde da Benner, na Caixa Saúde e Cassi, com C#.NET, .NET Core, Oracle, VB Script e Delphi. Responsável por sustentação e novas implementações em sistemas críticos, aplicando Clean Code, SOLID, DDD e arquitetura hexagonal. Experiência em microserviços, CI/CD, DevOps, testes unitários e integrados, garantindo entregas ágeis, escaláveis e confiáveis.
+Competências: C#.NET, .NET Core, Oracle, PL/SQL, EF Core, Design Patterns, Clean Code, SOLID, DDD, Arquitetura Hexagonal, Microserviços, Testes Unitários (NUnit), CI/CD, DevOps, GitHub Actions, Scrum/Kanban.
+
+## Inglês
+
+Senior Developer at Benner, Feb/2019 – Present (6+ years)
+Working on Benner’s health plan management system for Caixa Saúde and Cassi, using C#.NET, .NET Core, Oracle, VB Script, and Delphi. Responsible for both maintenance and new implementations in critical systems, applying Clean Code, SOLID, DDD, and Hexagonal Architecture. Experienced in microservices, CI/CD, DevOps, unit and integration testing, ensuring agile, scalable, and reliable deliveries.
+Skills: C#.NET, .NET Core, Oracle, PL/SQL, EF Core, Design Patterns, Clean Code, SOLID, DDD, Hexagonal Architecture, Microservices, Unit Testing (NUnit), CI/CD, DevOps, GitHub Actions, Scrum/Kanban.
+
+## Português
 
 Desenvolvedor Sênior em Foursys, Ago/2017 – Jan/2019 (1 ano e 6 meses)
 Alocado na Caixa Seguradora, fez parte da equipe de desenvolvimento do aplicativo 'Caixa Seguradora Odonto & Saúde' para Android / iOS (que hoje é chamado de 'Odonto Empresas'), utilizando Titanium Appcelerator, C#, MS SQL Server, etc. Fez implementações extras em outros projetos da Foursys, usando outras tecnologias como C#, Xamarin, React, Flutter, Java, Oracle, etc.
-Competências: C#.NET, .NET Core, Xamarin, Titanium Appcelerator, React, Flutter, Javascript, Java, SQL Server, MongoDB, MySQL, SQLite, Teste Unitários, NUnit, JUnit, Metodologias Ágeis, GitHub.
+Competências: C#.NET, .NET Core, Xamarin, Titanium Appcelerator, React, Javascript, Java, SQL Server, MongoDB, MySQL, SQLite, Teste Unitários (NUnit/JUnit), GitHub, Scrum/Kanban.
+
+## Inglês
 
 Desenvolvedor Sênior em Club Management Apps, Ago/2016 – Jul/2017 (11 meses)
 Participou de um projeto inovador para desenvolver um aplicativo de gestão de obras de pavimentação e outro para detecção de radares móveis, usando React Native, Titanium Appcelerator, Xamarin, C#, e MS SQL Server. Responsável por integrar plataformas, garantir a escalabilidade e implementar soluções inovadoras, tanto em funcionalidades quanto em usabilidade.

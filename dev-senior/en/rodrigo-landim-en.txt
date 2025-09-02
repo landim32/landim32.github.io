@@ -1,0 +1,82 @@
+RODRIGO LANDIM CARNEIRO
+SENIOR DEVELOPER | C#.NET | React | ORACLE
+---
+
+Address: 	Asa Norte, Brasília/DF
+Phone: 		+55 (61) 9 98752588
+LinkedIn: 	linkedin.com/in/rodrigolandim
+Email: 		rodrigo@emagine.com.br
+GitHub: 	github.com/landim32
+
+SUMMARY
+---
+
+I am a Senior Developer specialized in React, C#.NET, and Oracle, with strong expertise in software architecture and delivering robust solutions across healthcare, real estate, and mobile applications. Throughout my career, I have worked on both critical system maintenance and scalable new implementations, always striving for quality, innovation, and performance.
+
+My core practices include Clean Code, SOLID, Domain-Driven Design (DDD), unit and integration testing, as well as experience in Hexagonal Architecture and microservices. I also work with Continuous Integration and Continuous Delivery (CI/CD), automated pipelines, Docker for containerization, and DevOps best practices. I have hands-on experience with AWS, leveraging cloud services to build scalable, resilient, and secure solutions.
+
+Currently, I am a Senior Developer at Benner, working on high-impact projects in the healthcare sector, ensuring the modernization and reliability of mission-critical systems.
+
+I am always seeking new challenges, applying modern technologies, SaaS, cloud, and architectural best practices to build scalable, resilient, and high-performance applications.
+
+EXPERIENCE
+---
+
+Senior Developer at Benner, Feb/2019 – Present (6+ years)
+Working on Benner’s health plan management system for Caixa Saúde and Cassi, with C#.NET, .NET Core, Oracle, VB Script, and Delphi. Responsible for both maintenance and new implementations in critical systems, applying Clean Code, SOLID, DDD, and Hexagonal Architecture. Experience with microservices, CI/CD, DevOps, unit and integration testing, ensuring agile, scalable, and reliable deliveries.
+Skills: C#.NET, .NET Core, Oracle, PL/SQL, EF Core, Design Patterns, Clean Code, SOLID, DDD, Hexagonal Architecture, Microservices, Unit Testing (NUnit), CI/CD, DevOps, GitHub Actions, Docker, AWS, Scrum/Kanban.
+
+Senior Developer at Foursys, Aug/2017 – Jan/2019 (1 year 6 months)
+Assigned to Caixa Seguradora, worked on the development of the "Caixa Seguradora Odonto & Saúde" mobile app for Android/iOS (now "Odonto Empresas"), using Titanium Appcelerator, C#, MS SQL Server, among others. Contributed to other projects with technologies like C#, Xamarin, React, Flutter, Java, Oracle.
+Skills: C#.NET, .NET Core, Xamarin, Titanium Appcelerator, React, Flutter, Javascript, Java, SQL Server, MongoDB, MySQL, SQLite, Unit Testing, NUnit, JUnit, Agile Methodologies, GitHub.
+
+Senior Developer at Club Management Apps, Aug/2016 – Jul/2017 (11 months)
+Contributed to innovative projects, including a pavement construction management app and a mobile radar detection app, using React Native, Titanium Appcelerator, Xamarin, C#, and MS SQL Server. Responsible for platform integration, scalability, and implementing innovative solutions in both features and usability.
+Skills: C#.NET, React Native, Titanium Appcelerator, Xamarin, Javascript, MySQL, MS SQL Server, SQLite, Unit Testing, NUnit, Agile Methodologies, GitHub.
+
+Senior Developer at Emagine, Jan/2011 – Aug/2016 (5 years 7 months)
+Led the development team for a complete real estate management system, responsible for creating innovative solutions including integration with real estate portals and social media. Used PHP, Laravel, Ionic, C#.NET, and Angular to build a robust, scalable system covering website creation and a custom real estate CRM.
+Skills: C#.NET, PHP, Laravel, Ionic, Wordpress, HTML5, Javascript, MySQL, PostgreSQL, SQLite, jQuery, Bootstrap, Less, Angular, GitHub, Git, Subversion.
+
+Senior Developer at Wimoveis.com, Sep/2005 – Nov/2011 (6 years 2 months)
+Led the development of Wimoveis.com, the largest real estate portal in Brazil’s Federal District, which held 90% of the market until its acquisition by ImovelWeb. Worked with C#.NET, SQL Server, AJAX, and Silverlight, managing the project from conception to market consolidation.
+Skills: C#.NET, Javascript, SQL Server, HTML5, jQuery, Silverlight, Subversion.
+
+Mid-Level Developer at Implanta Informática, Jul/2003 – Aug/2005 (1 year 2 months)
+Contributed to the development of the SISCAF system, used by many professional councils in Brazil (OAB/DF, CRA/DF, CORECON/SP). Also worked on SISCAF Web, a web-based interface for the system.
+Skills: C#.NET, ASP.NET, Delphi, SQL Server, HTML, CSS, Javascript.
+
+SKILLS
+---
+
+React, Next.js, C#.NET, .NET Core, ASP.NET, Javascript, Delphi, PHP, VB Script, PL/SQL, Oracle, SQL Server, SQLite, MySQL, PostgreSQL, Docker, AWS, Azure, Razor, Entity Framework, Design Patterns, DDD, CI/CD, SOLID, Clean Code, HTML5, Less, jQuery, Angular, Bootstrap, Unit Testing, NUnit, JUnit, DevOps, GitHub Actions, GitHub, Git, Subversion, Agile Methodologies, Scrum, Kanban
+
+LANGUAGES
+---
+
+* Portuguese (Native)
+* English (Intermediate)
+
+EDUCATION
+---
+
+* Postgraduate Lato Sensu - MBA in Data Center and Cloud Computing – Infrastructure, Architecture, and Information Storage – UNIP, 2026
+* Systems Analysis and Development – UNIP, 2021
+* Civil Engineering – IESB, 2004
+
+ADDITIONAL TRAINING & CERTIFICATIONS
+---
+
+* Introduction to Microsoft Azure Cloud Services, Coursera, Sept 2024 (9h)
+* AWS Certified Cloud Practitioner CLF-C02, Andre Lacono, Udemy, Dec 2024 (22h)
+* Design Patterns in C#, Filipe Nhlimi, Udemy, Jan 2025 (12.5h)
+* C# - Applying SOLID Principles in Practice, Jose Carlos Macoratti, Udemy, Jan 2025 (9h)
+* Clean Architecture Essentials - ASP.NET Core with C#, Jose Carlos Macoratti, Udemy, Jan 2025 (14h)
+* Agile Methods, Alura: Introduction, Scrum: Agility in your project, Lean Startup: First steps of your lean startup, Agile in practice: techniques applied to agile management (35h)
+* .NET Training Program, Alura: Getting Started; Understanding Object Orientation; Understanding Inheritance and Interface; Understanding Exceptions; DLLs, Documentation, and Using NuGet; Strings, Regular Expressions, and the Object Class; Array and Generic Types; List, Lambda, Linq; Input and Output (I/O) with Streams; Entity Framework Core, Efficient Database; Asp.NET Core, a Web App Using the MVC Pattern; ASP.NET Core, an E-Commerce with MVC and EF Core; and ASP.NET Core Part 2, an E-Commerce with MVC and EF Core (118h)
+* Oracle SQL and PL/SQL Training, Alura: Oracle I - Learn SQL using this famous database; Oracle II - Complex Queries; PL/SQL - Master the Oracle database language; and PL/SQL - Mastering packages (40h)
+* Java Programming, Alura: Java JRE and JDK: compile and run your program; Java OO - understanding Object Orientation; Java Polymorphism - understanding inheritance and interfaces; Java Exceptions - learn how to create, throw, and control exceptions; Java and java.lang - program with the Object and String classes; Java and java.util - Collections, Wrappers, and Lambda expressions; Java and java.io - Streams, Readers, and Writers (80h)
+* Agile Practitioner, Alura: Lean Startup - first steps of your lean startup; Agile Methods - Introduction; Scrum - agility in your project; Agile in practice - techniques applied to Agile Management (35h)
+* Microsoft MCP & MCAD Certifications (Credential Code B252-4585), Jan 2007
+* Project Management + MS Project, Hepta (56h)
+* Borland Conference 2004, São Paulo, Aug 2004

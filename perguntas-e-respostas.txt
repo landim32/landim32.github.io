@@ -1,0 +1,22 @@
+- Falando sobre você (storytelling);
+- Qual o seu maior desafio, projeto mais desafiador?
+- Momento de conflito entre seu time e vc, e como foi resolvido;
+- Porque está saindo da empresa atual (buscando novas tecnologias);
+- Pontos fortes e pontos fracos;
+
+- O que é DDD?
+- Arquitetura Hexagonal
+- Clean Code
+- SOLID
+- Repository Pattner
+- Single Responsibility Principle (SRP) e Dependency Inversion (DIP).
+- CQRS (Command Query Responsibility Segregation)
+- O que vc faria se tivesse mais tempo? Mais ferramentas de teste
+- ORM
+- Singleton
+- Injeção de dependência, AddScoped, AddTrasient, AddSingleton
+- web api & worker
+- task & thread
+- Domain Model Pattner
+
+
